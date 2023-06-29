@@ -1,0 +1,3 @@
+ESTE EL ARCHIVO QUE SE USARÁ PARA REALIZAR LA PRUEBA GIT
+
+Creado por : Diego Fernando Pulgarín como prueba de la actividad de sincronización de git y github.
